@@ -1,0 +1,7 @@
+name: SgCraftPVP
+main: br.com.sgcraft.pvpvip.Main
+version: 2.0.0
+author: Sardinhagamer_HD
+commands:
+  pvp:
+    aliases: []
